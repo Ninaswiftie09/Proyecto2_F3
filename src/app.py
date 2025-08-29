@@ -1,0 +1,1 @@
+ # Punto de entrada. Bucle principal, orquestación (signals->core->ui)

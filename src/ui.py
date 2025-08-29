@@ -1,0 +1,1 @@
+# Render e interfaz: 3 vistas (lateral, superior, pantalla), HUD, inputs

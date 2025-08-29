@@ -1,0 +1,1 @@
+# Generadores de señal: ManualSignal, SineSignal (freq, phase, amp)

@@ -1,0 +1,1 @@
+# Modelo físico: geometría, step(dt,Vx,Vy,Va), impacto, persistencia

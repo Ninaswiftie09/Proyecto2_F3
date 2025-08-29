@@ -1,0 +1,1 @@
+# (Opcional) Constantes: tamaños, límites de voltajes, colores, teclas
