@@ -3,7 +3,7 @@
 ## Integrantes 
 - Nina Nájera Marakovits - 231088
 - Cindy Gualim - 
-- Wilson Calderón - 
+- Wilson Calderón - 22018
 - Samuel Mejía -
 
 ## De qué se trata el proyecto?
